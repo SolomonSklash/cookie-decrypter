@@ -4,7 +4,7 @@ Version:        2.0.0
 Date:           08/17/2018
 Author:         bellma101 - bellma101@0xfeed.io - Penetration Tester with FIS Global
 Gitlab:         https://github.com/bellma101/cookie-decrypter/
-Description:    This extension detects the usage of Citrix Netscaler
+Description:    This extension detects the usage of various types of
 persistence cookies and decrypts them. It requires Jython 2.7+.
 
 The following Burp extensions were reviewed to help write this:
