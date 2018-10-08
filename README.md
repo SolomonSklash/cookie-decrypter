@@ -14,6 +14,6 @@ A Burp Suite Professional extension for decrypting/decoding various types of coo
 * Add other cookie types
 
 ### Screenshots
-[![Example Netscaler Issue](screenshots/cookie-decrypter-issue1.png)]
+![Example Netscaler Issue](screenshots/cookie-decrypter-issue1.png)
 
-[![Example BigIP Issue](screenshots/cookie-decrypter-issue2.png)]
+![Example BigIP Issue](screenshots/cookie-decrypter-issue2.png)
