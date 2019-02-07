@@ -2,8 +2,8 @@
 Name:           Cookie Decrypter
 Version:        2.0.0
 Date:           08/17/2018
-Author:         bellma101 - bellma101@0xfeed.io - Penetration Tester with FIS Global
-Gitlab:         https://github.com/bellma101/cookie-decrypter/
+Author:         SolomonSklash - solomonsklash@0xfeed.io - Penetration Tester with FIS Global
+Github:         https://github.com/SolomonSklash/cookie-decrypter/
 Description:    This extension detects the usage of various types of
 persistence cookies and decrypts them. It requires Jython 2.7+.
 
@@ -22,7 +22,7 @@ the Netscaler decryption code of this extension is based.
  And to Steve Coward for Cookie Crunch, for decoded Flask cookies.
  - https://github.com/stevecoward/cookie-crunch
 
-Copyright (c) 2018 bellma101
+Copyright (c) 2018 SolomonSklash
 """
 
 try:
