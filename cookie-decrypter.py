@@ -64,9 +64,9 @@ class BurpExtender(IBurpExtender, IScannerCheck):
 
         stdout = PrintWriter(callbacks.getStdout(), True)
         stdout.println("""Successfully loaded Cookie Decrypter v""" + VERSION + """\n
-Repository @ https://github.com/bellma101/cookie-decrypter/
-Send feedback or bug reports to bellma101@0xfeed.io
-Copyright (c) 2018 bellma101""")
+Repository @ https://github.com/SolomonSklash/cookie-decrypter/
+Send feedback or bug reports to solomonsklash@0xfeed.io
+Copyright (c) 2018 SolomonSklash""")
 
         return
 
